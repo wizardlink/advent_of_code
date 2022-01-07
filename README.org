@@ -1,7 +1,6 @@
-#+title: README
+#+title: Advent of Code
 
-* Advent of Code
 I created this repository for keepsake and to keep track of my advent of code activities.
 
-** 2021
+* 2021
 This year /though late to continue/ I am separating it in even and odd day challenges, having odd days being complete using [[https://nim-lang.org/][Nim]] and even days with [[https://elixir-lang.org/][Elixir]].
